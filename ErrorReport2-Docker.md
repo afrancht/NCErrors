@@ -13,7 +13,7 @@
 ## Error 1 found in Nuypher/dev/docker
 
 - URL: https://github.com/nucypher/nucypher/tree/master/dev/docker
-- Video: https://github.com/nucypher/nucypher/tree/master/dev/docker
+- Video: https://youtu.be/ZkVWjrgv4Ho
 
 Trying to test the Nucypher Network in federated mode locally following the demo here: https://www.youtube.com/watch?v=om0tew-Z4gE
 
