@@ -22,5 +22,3 @@ It returns the following error:
 'ERROR: Could not find a version that satisfies the requirement eth-account==0.4.0 (from nucypher) (from versions: 0.1.0a1, 0.1.0a2, 0.2.0a0, 0.2.0, 0.2.1, 0.2.2, 0.2.3, 0.3.0)
 ERROR: No matching distribution found for eth-account==0.4.0 (from nucypher)'
 
-Possible fix:
-`$ pip install -U eth-tester`
