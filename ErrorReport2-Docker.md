@@ -10,7 +10,7 @@
 - Python Version: 3.7.2
 - Branch: master
 
-## Error 1 found in Nuxcypher/dev/docker
+## Error 1 found in Nucypher/dev/docker
 
 - URL: https://github.com/nucypher/nucypher/tree/master/dev/docker
 - Video: https://youtu.be/ZkVWjrgv4Ho
