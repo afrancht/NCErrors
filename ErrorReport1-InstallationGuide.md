@@ -7,6 +7,9 @@
 - 2.9 GHz Intel Core i5
 - 8 GB 2133 MHz LPDDR3
 
+- Python Version: 3.7.2
+- Branch: master
+
 ## Error 1 found in Installation Guide > Standard Pip Installation
 
 - URL: https://docs.nucypher.com/en/latest/guides/installation_guide.html
